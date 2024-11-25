@@ -5,7 +5,7 @@
     "width": 2000,
     "height": 2000,
     "scrollTop": 0,
-    "scrollLeft": 0,
+    "scrollLeft": -6.5919,
     "zoomLevel": 1,
     "show": 431,
     "database": 4,
@@ -56,7 +56,8 @@
           "-aHNIhvRFcaqff74yXsA-",
           "59AbYMhb7YxQTUhjvPlwI",
           "b5CKQ8TmxdTRFad1j5kUr",
-          "23U997hPO9G_80xfMiyM0"
+          "23U997hPO9G_80xfMiyM0",
+          "gz2hGcBZpX_NC70XZbN_l"
         ],
         "seqColumnIds": [
           "MM6KR6dTc1NfDL3L2xeqA",
@@ -72,18 +73,19 @@
           "23U997hPO9G_80xfMiyM0",
           "h-8RDV3Gvioax1cGNQiGh",
           "STqwPkBOPAsHf16r2O2VG",
-          "IH7juD-61nVZdl_oQJqrs"
+          "IH7juD-61nVZdl_oQJqrs",
+          "gz2hGcBZpX_NC70XZbN_l"
         ],
         "ui": {
-          "x": 710.887,
-          "y": 88.7164,
+          "x": 711.887,
+          "y": 76.7164,
           "zIndex": 2,
           "widthName": 60,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1731433728608,
+          "updateAt": 1732544449823,
           "createAt": 1731429930080
         }
       },
@@ -773,6 +775,26 @@
           "updateAt": 1731433778710,
           "createAt": 1731433585186
         }
+      },
+      "gz2hGcBZpX_NC70XZbN_l": {
+        "id": "gz2hGcBZpX_NC70XZbN_l",
+        "tableId": "nwgY_TP8IqVfI-TTPLUe6",
+        "name": "global-rating",
+        "comment": "",
+        "dataType": "FLOAT",
+        "default": "",
+        "options": 0,
+        "ui": {
+          "keys": 0,
+          "widthName": 69,
+          "widthComment": 60,
+          "widthDataType": 60,
+          "widthDefault": 60
+        },
+        "meta": {
+          "updateAt": 1732544434900,
+          "createAt": 1732544423348
+        }
       }
     },
     "relationshipEntities": {
@@ -814,7 +836,7 @@
           "columnIds": [
             "PodQCtwE7kIL9e9nA0rpX"
           ],
-          "x": 710.887,
+          "x": 711.887,
           "y": 212.7164,
           "direction": 1
         },
@@ -1164,6 +1186,15 @@
       1731433585184,
       -1,
       {}
+    ],
+    "gz2hGcBZpX_NC70XZbN_l": [
+      "tableColumnEntities",
+      1732544423346,
+      -1,
+      {
+        "name": 1732544429879,
+        "dataType": 1732544434900
+      }
     ]
   }
 }
