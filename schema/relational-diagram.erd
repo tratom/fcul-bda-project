@@ -124,7 +124,7 @@
       },
       "VklGAS9tli_yUfAoeXUPd": {
         "id": "VklGAS9tli_yUfAoeXUPd",
-        "name": "ratings",
+        "name": "recommandations",
         "comment": "",
         "columnIds": [
           "b8TLY572i5w5JsXYLKLXW",
@@ -145,12 +145,12 @@
           "x": 31.2083,
           "y": 148.5112,
           "zIndex": 103,
-          "widthName": 60,
+          "widthName": 99,
           "widthComment": 60,
           "color": ""
         },
         "meta": {
-          "updateAt": 1731433788249,
+          "updateAt": 1732618205014,
           "createAt": 1731433398741
         }
       }
@@ -1064,7 +1064,7 @@
       1731433398739,
       -1,
       {
-        "name": 1731433410650
+        "name": 1732618205012
       }
     ],
     "ozWqNZQ83f0s7SGBnzG-S": [
